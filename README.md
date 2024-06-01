@@ -47,7 +47,7 @@ Test case seen in the following walkthrough: <br>
 [Video Walkthrough](https://drive.google.com/file/d/11GxCwhhglL1Y6vPFxLm4LsBfhA5vMxEo/view?usp=sharing)
 
 ## Installation
-  Open integrated terminal in personal IDE and run `npm i` in the highest level of the root directory to install all the necessary dependencies. Once completed type `npm run develop` to start
+  Open integrated terminal in personal IDE and run `npm i` in the highest level of the root directory to install all the necessary dependencies. Once completed type `npm run start` to start
 
   ## License
 This software is covered under the following license:
